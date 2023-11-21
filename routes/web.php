@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [App\Http\Controllers\ModuleController::class, 'index']);
 Route::post('/report', [App\Http\Controllers\ModuleController::class, 'TraitementForm'])->name('traitement.form');
-
+Route::post('/view-report', [App\Http\Controllers\ModuleController::class, 'viewReport'])->name('view.report');
 
 // Auth::routes();
 

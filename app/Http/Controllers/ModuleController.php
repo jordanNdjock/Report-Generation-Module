@@ -26,5 +26,11 @@ class ModuleController extends Controller
 
         return view('report', ['selectedTitles' => $selectedTitles]);
     }
+    public function viewReport(Request $request)
+    {
+        $selectedTitles = $request->input('selectedTitles', []);
+
+        return view('view-report', ['selectedTitles' => $selectedTitles]);
+    }
 
 }
