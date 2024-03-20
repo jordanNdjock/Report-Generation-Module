@@ -8,3 +8,8 @@ L’application ou module a été développée pour faciliter la génération et
 
 Lien du projet : https://rapport.ict300.online/te-sea/login
 
+## Options de connexion
+**login** = bouki.boukar@gmail.com
+**mdp** = default
+
+Ce module est un module test du moule original developpé pour la plateforme Te-sea
