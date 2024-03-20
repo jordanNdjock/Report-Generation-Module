@@ -1,2 +1,7 @@
-# Report-Generation-Module
-Te-Sea Module de génération de rapport d'activité academique et scientifique
+# te-sea Module de génération de rapports d'activités académiques et scientifiques
+Le module de génération des rapports d'activités académiques et scientifiques pour la **Plateforme d'enseignant-chercheur (Te-Sea)** est un projet de fin de formation en licence 3 ICT4D qui porte sur la conception et l'implementation d'une solution informatique qui est un module de génération et un tableau de bord pour la gestion des dits rapports générés.
+
+L’application ou module a été développée pour faciliter la génération et la gestion(visualisation,suppression et impression) des rapports pour les enseignants-chercheur devant produire un rapport d'activité à leur responsable et au responsable de pouvoir avoir un contrôle sur les activités de ces enseignants-chercheur dans leurs differentes recherches.
+
+Lien du projet : https://rapport.ict300.online/te-sea/login
+
