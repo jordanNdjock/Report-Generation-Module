@@ -6,10 +6,10 @@ L’application ou module a été développée pour faciliter la génération et
 
 ![Capture d’écran 2024-03-20 145305](https://github.com/jordanNdjock/Report-Generation-Module/assets/104268627/4f0d28b8-eec2-43df-957a-9a09f90f84ba)
 
-Lien du projet : https://rapport.ict300.online/te-sea/login
+Lien du projet : https://te-sea.cm/ts/login
 
 ## Options de connexion
 **login** = bouki.boukar@gmail.com
-**mdp** = default
+**mdp** = 0.123456789
 
 Ce module est un module test du moule original developpé pour la plateforme Te-sea
